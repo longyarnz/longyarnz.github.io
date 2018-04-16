@@ -33,7 +33,7 @@ The __"pretest"__ script lints the javascript files in the project folder in sea
 ```sh
   npm test
 ```
-The __"test"__ script runs a mocha powered test on the microservice to verify and efficiency of the codebase. The test suite is covered by istanbul to provide maximum coverage for the files tested.
+The __"test"__ script runs a mocha powered test on the microservice to verify the efficiency of the codebase. The test suite is covered by istanbul to provide maximum coverage for the files tested.
 
 #### "dev"
 ```sh
@@ -73,7 +73,7 @@ At the completion of the request, the server issues a token and a user object co
 ```
 At the completion of the request, the server returns the token and a patched json object.
 
-* __"http://localhost:3000/api/getThumbnail"__: This endpoint takes a JSON object as its input. The JSON object must have valid <url>url</url> to an image stored on a remote server, and token properties and values, which must be string data type. The token received from the response of the __Login API__ must be embedded into the header of this request else the request will fail with a 403 status. 
+* __"http://localhost:3000/api/getThumbnail"__: This endpoint takes a JSON object as its input. The JSON object must have valid <url>url</url> to an image stored on a remote server. The token received from the response of the __Login API__ must be embedded into the header of this request else the request will fail with a 403 status. 
 #### Request payload
 ```js
   {
