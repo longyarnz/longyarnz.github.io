@@ -1,0 +1,435 @@
+
+  2018-04-16T02:29:20.322Z [Log to File] info: Server listening on 3000
+
+
+  2018-04-16T02:29:20.647Z [Log to File] error: Invalid Username or Password
+
+
+  2018-04-16T02:29:20.685Z [Log to File] error: Username and Password must be of STRING type
+
+
+  2018-04-16T02:29:20.785Z [Log to File] error: Invalid Patch.
+
+
+  2018-04-16T02:29:20.823Z [Log to File] error: Invalid Token.
+
+
+  2018-04-16T02:29:21.697Z [Log to File] error: Input buffer contains unsupported image format
+
+
+  2018-04-16T02:29:21.697Z [Log to File] error: Invalid Image URL was given
+
+
+  2018-04-16T02:29:21.742Z [Log to File] error: only absolute urls are supported
+
+
+  2018-04-16T02:29:21.776Z [Log to File] error: Invalid Token Sent
+
+
+  2018-04-16T02:29:21.818Z [Log to File] info: testing the logger
+
+
+  2018-04-16T02:32:33.370Z [Log to File] info: Server listening on 3000
+
+
+  2018-04-16T02:32:33.625Z [Log to File] error: Invalid Username or Password
+
+
+  2018-04-16T02:32:33.648Z [Log to File] error: Username and Password must be of STRING type
+
+
+  2018-04-16T02:32:33.724Z [Log to File] error: Invalid Patch.
+
+
+  2018-04-16T02:32:33.767Z [Log to File] error: Invalid Token.
+
+
+  2018-04-16T02:32:34.532Z [Log to File] error: Input buffer contains unsupported image format
+
+
+  2018-04-16T02:32:34.532Z [Log to File] error: Invalid Image URL was given
+
+
+  2018-04-16T02:32:34.562Z [Log to File] error: only absolute urls are supported
+
+
+  2018-04-16T02:32:34.574Z [Log to File] error: Invalid Token Sent
+
+
+  2018-04-16T02:32:34.588Z [Log to File] info: testing the logger
+
+
+  2018-04-16T02:56:18.060Z [Log to File] info: Server listening on 3000
+
+
+  2018-04-16T02:56:18.327Z [Log to File] error: Invalid Username or Password
+
+
+  2018-04-16T02:56:18.352Z [Log to File] error: Username and Password must be of STRING type
+
+
+  2018-04-16T02:56:18.452Z [Log to File] error: Invalid Patch.
+
+
+  2018-04-16T02:56:18.479Z [Log to File] error: Invalid Token.
+
+
+  2018-04-16T02:56:19.243Z [Log to File] error: Input buffer contains unsupported image format
+
+
+  2018-04-16T02:56:19.244Z [Log to File] error: Invalid Image URL was given
+
+
+  2018-04-16T02:56:19.273Z [Log to File] error: only absolute urls are supported
+
+
+  2018-04-16T02:56:19.286Z [Log to File] error: Invalid Token Sent
+
+
+  2018-04-16T02:56:19.299Z [Log to File] info: testing the logger
+
+
+  2018-04-16T02:57:20.797Z [Log to File] error: Invalid Username or Password
+
+
+  2018-04-16T02:57:20.826Z [Log to File] error: Username and Password must be of STRING type
+
+
+  2018-04-16T02:57:20.907Z [Log to File] error: Invalid Patch.
+
+
+  2018-04-16T02:57:20.940Z [Log to File] error: Invalid Token.
+
+
+  2018-04-16T02:57:21.663Z [Log to File] error: Input buffer contains unsupported image format
+
+
+  2018-04-16T02:57:21.663Z [Log to File] error: Invalid Image URL was given
+
+
+  2018-04-16T02:57:21.692Z [Log to File] error: only absolute urls are supported
+
+
+  2018-04-16T02:57:21.705Z [Log to File] error: Invalid Token Sent
+
+
+  2018-04-16T02:57:21.719Z [Log to File] info: testing the logger
+
+
+  2018-04-16T03:14:21.875Z [Log to File] info: Server listening on 3000
+
+
+  2018-04-16T03:14:22.198Z [Log to File] info: testing the logger
+
+
+  2018-04-16T03:18:54.648Z [Log to File] info: Server listening on 3000
+
+
+  2018-04-16T03:18:54.995Z [Log to File] info: testing the logger
+
+
+  2018-04-16T03:20:18.197Z [Log to File] info: Server listening on 3000
+
+
+  2018-04-16T03:20:18.525Z [Log to File] info: testing the logger
+
+
+  2018-04-16T03:20:53.580Z [Log to File] info: Server listening on 3000
+
+
+  2018-04-16T03:20:53.931Z [Log to File] info: testing the logger
+
+
+  2018-04-16T03:23:02.599Z [Log to File] info: Server listening on 3000
+
+
+  2018-04-16T03:23:02.949Z [Log to File] info: testing the logger
+
+
+  2018-04-16T03:24:17.895Z [Log to File] info: Server listening on 3000
+
+
+  2018-04-16T03:24:18.248Z [Log to File] info: testing the logger
+
+
+  2018-04-16T03:27:34.391Z [Log to File] info: Server listening on 3000
+
+
+  2018-04-16T03:27:34.668Z [Log to File] error: Invalid Username or Password
+
+
+  2018-04-16T03:27:34.691Z [Log to File] error: Username and Password must be of STRING type
+
+
+  2018-04-16T03:27:34.751Z [Log to File] error: Invalid Patch.
+
+
+  2018-04-16T03:27:34.785Z [Log to File] error: Invalid Token.
+
+
+  2018-04-16T03:27:35.572Z [Log to File] error: Input buffer contains unsupported image format
+
+
+  2018-04-16T03:27:35.572Z [Log to File] error: Invalid Image URL was given
+
+
+  2018-04-16T03:27:35.603Z [Log to File] error: only absolute urls are supported
+
+
+  2018-04-16T03:27:35.616Z [Log to File] error: Invalid Token Sent
+
+
+  2018-04-16T03:27:35.632Z [Log to File] info: testing the logger
+
+
+  2018-04-16T03:30:21.863Z [Log to File] info: Server listening on 3000
+
+
+  2018-04-16T03:30:22.156Z [Log to File] error: Invalid Username or Password
+
+
+  2018-04-16T03:30:22.180Z [Log to File] error: Username and Password must be of STRING type
+
+
+  2018-04-16T03:30:22.243Z [Log to File] error: Invalid Patch.
+
+
+  2018-04-16T03:30:22.290Z [Log to File] error: Invalid Token.
+
+
+  2018-04-16T03:30:23.052Z [Log to File] error: Input buffer contains unsupported image format
+
+
+  2018-04-16T03:30:23.052Z [Log to File] error: Invalid Image URL was given
+
+
+  2018-04-16T03:30:23.081Z [Log to File] error: only absolute urls are supported
+
+
+  2018-04-16T03:30:23.094Z [Log to File] error: Invalid Token Sent
+
+
+  2018-04-16T03:30:23.112Z [Log to File] info: testing the logger
+
+
+  2018-04-16T03:40:26.410Z [Log to File] info: Server listening on 3000
+
+
+  2018-04-16T03:40:26.757Z [Log to File] info: testing the logger
+
+
+  2018-04-16T03:42:13.675Z [Log to File] info: Server listening on 3000
+
+
+  2018-04-16T03:42:14.012Z [Log to File] info: testing the logger
+
+
+  2018-04-16T03:47:14.086Z [Log to File] info: Server listening on 3000
+
+
+  2018-04-16T03:47:14.359Z [Log to File] error: Invalid Username or Password
+
+
+  2018-04-16T03:47:14.379Z [Log to File] error: Username and Password must be of STRING type
+
+
+  2018-04-16T03:47:14.428Z [Log to File] error: Invalid Patch.
+
+
+  2018-04-16T03:47:14.444Z [Log to File] error: Invalid Token.
+
+
+  2018-04-16T03:47:15.187Z [Log to File] error: Input buffer contains unsupported image format
+
+
+  2018-04-16T03:47:15.187Z [Log to File] error: Invalid Image URL was given
+
+
+  2018-04-16T03:47:15.210Z [Log to File] error: only absolute urls are supported
+
+
+  2018-04-16T03:47:15.220Z [Log to File] error: Invalid Token Sent
+
+
+  2018-04-16T03:47:15.233Z [Log to File] info: testing the logger
+
+
+  2018-04-16T03:48:33.095Z [Log to File] info: Server listening on 3000
+
+
+  2018-04-16T03:48:33.377Z [Log to File] error: Invalid Username or Password
+
+
+  2018-04-16T03:48:33.397Z [Log to File] error: Username and Password must be of STRING type
+
+
+  2018-04-16T03:48:33.447Z [Log to File] error: Invalid Patch.
+
+
+  2018-04-16T03:48:33.465Z [Log to File] error: Invalid Token.
+
+
+  2018-04-16T03:48:34.227Z [Log to File] error: Input buffer contains unsupported image format
+
+
+  2018-04-16T03:48:34.228Z [Log to File] error: Invalid Image URL was given
+
+
+  2018-04-16T03:48:34.251Z [Log to File] error: only absolute urls are supported
+
+
+  2018-04-16T03:48:34.260Z [Log to File] error: Invalid Token Sent
+
+
+  2018-04-16T03:48:34.276Z [Log to File] info: testing the logger
+
+
+  2018-04-16T03:49:31.249Z [Log to File] info: Server listening on 3000
+
+
+  2018-04-16T03:49:31.496Z [Log to File] error: Invalid Username or Password
+
+
+  2018-04-16T03:49:31.516Z [Log to File] error: Username and Password must be of STRING type
+
+
+  2018-04-16T03:49:31.585Z [Log to File] error: Invalid Patch.
+
+
+  2018-04-16T03:49:31.618Z [Log to File] error: Invalid Token.
+
+
+  2018-04-16T03:49:32.322Z [Log to File] error: Input buffer contains unsupported image format
+
+
+  2018-04-16T03:49:32.323Z [Log to File] error: Invalid Image URL was given
+
+
+  2018-04-16T03:49:32.344Z [Log to File] error: only absolute urls are supported
+
+
+  2018-04-16T03:49:32.353Z [Log to File] error: Invalid Token Sent
+
+
+  2018-04-16T03:49:32.429Z [Log to File] info: testing the logger
+
+
+  2018-04-16T03:52:11.221Z [Log to File] info: Server listening on 3000
+
+
+  2018-04-16T03:52:11.468Z [Log to File] error: Invalid Username or Password
+
+
+  2018-04-16T03:52:11.490Z [Log to File] error: Username and Password must be of STRING type
+
+
+  2018-04-16T03:52:11.549Z [Log to File] error: Invalid Patch.
+
+
+  2018-04-16T03:52:11.567Z [Log to File] error: Invalid Token.
+
+
+  2018-04-16T03:52:12.285Z [Log to File] error: Input buffer contains unsupported image format
+
+
+  2018-04-16T03:52:12.285Z [Log to File] error: Invalid Image URL was given
+
+
+  2018-04-16T03:52:12.307Z [Log to File] error: only absolute urls are supported
+
+
+  2018-04-16T03:52:12.316Z [Log to File] error: Invalid Token Sent
+
+
+  2018-04-16T03:52:12.331Z [Log to File] info: testing the logger
+
+
+  2018-04-16T03:53:50.077Z [Log to File] info: Server listening on 3000
+
+
+  2018-04-16T03:53:52.185Z [Log to File] error: Invalid Username or Password
+
+
+  2018-04-16T03:53:52.219Z [Log to File] error: Username and Password must be of STRING type
+
+
+  2018-04-16T03:53:52.322Z [Log to File] error: Invalid Patch.
+
+
+  2018-04-16T03:53:52.351Z [Log to File] error: Invalid Token.
+
+
+  2018-04-16T03:53:53.365Z [Log to File] error: Input buffer contains unsupported image format
+
+
+  2018-04-16T03:53:53.365Z [Log to File] error: Invalid Image URL was given
+
+
+  2018-04-16T03:53:53.408Z [Log to File] error: only absolute urls are supported
+
+
+  2018-04-16T03:53:53.426Z [Log to File] error: Invalid Token Sent
+
+
+  2018-04-16T03:53:53.442Z [Log to File] info: testing the logger
+
+
+  2018-04-16T03:58:15.907Z [Log to File] info: Server listening on 3000
+
+
+  2018-04-16T03:58:18.050Z [Log to File] error: Invalid Username or Password
+
+
+  2018-04-16T03:58:18.075Z [Log to File] error: Username and Password must be of STRING type
+
+
+  2018-04-16T03:58:18.146Z [Log to File] error: Invalid Patch.
+
+
+  2018-04-16T03:58:18.177Z [Log to File] error: Invalid Token.
+
+
+  2018-04-16T03:58:18.892Z [Log to File] error: Input buffer contains unsupported image format
+
+
+  2018-04-16T03:58:18.893Z [Log to File] error: Invalid Image URL was given
+
+
+  2018-04-16T03:58:18.914Z [Log to File] error: only absolute urls are supported
+
+
+  2018-04-16T03:58:18.923Z [Log to File] error: Invalid Token Sent
+
+
+  2018-04-16T03:58:18.972Z [Log to File] info: testing the logger
+
+
+  2018-04-16T04:00:06.678Z [Log to File] info: Server listening on 3000
+
+
+  2018-04-16T04:00:06.929Z [Log to File] error: Invalid Username or Password
+
+
+  2018-04-16T04:00:06.952Z [Log to File] error: Username and Password must be of STRING type
+
+
+  2018-04-16T04:00:07.007Z [Log to File] error: Invalid Patch.
+
+
+  2018-04-16T04:00:07.042Z [Log to File] error: Invalid Token.
+
+
+  2018-04-16T04:00:07.785Z [Log to File] error: Input buffer contains unsupported image format
+
+
+  2018-04-16T04:00:07.785Z [Log to File] error: Invalid Image URL was given
+
+
+  2018-04-16T04:00:07.807Z [Log to File] error: only absolute urls are supported
+
+
+  2018-04-16T04:00:07.817Z [Log to File] error: Invalid Token Sent
+
+
+  2018-04-16T04:00:07.831Z [Log to File] info: testing the logger
+
