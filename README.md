@@ -20,7 +20,7 @@ Then inspect the package,json file for the npm scripts embedded in it.
   "scripts": {
     "pretest": "eslint --fix --ignore-path .gitignore .",
     "test": " nyc report --reporter=html mocha --require babel-register --require babel-polyfill --recursive -R spec --exit || true",
-    "dev-start": "nodemon --exec babel-node -- app.js",
+    "node-start": "nodemon --exec babel-node -- app.js",
     "start": "node app"
   },
 ```
@@ -36,11 +36,11 @@ The __"pretest"__ script lints the javascript files in the project folder in sea
 ```
 The __"test"__ script runs a mocha powered test on the microservice to verify and efficiency of the codebase. The test suite is covered by istanbul to provide maximum coverage for the files tested.
 
-#### "dev-start"
+#### "node-start"
 ```sh
   npm run dev-start
 ```
-The __"dev-start"__ script runs fires up the server in development mode using nodemon to watch for file changes in the project folder.
+The __"node-start"__ script runs fires up the server in development mode using nodemon to watch for file changes in the project folder.
 
 #### "start"
 ```sh
@@ -50,7 +50,7 @@ The __"start"__ script runs fires up the server in production servers.
 
 ### API Endpoints
 There are 3 endpoints on this API:
-* __"https://longyarnz.github.io/hackerbay_backend/login"__: This endpoint takes a JSON object as its input. The JSON object must have username and password properties and values, which must be string data type.
+* __"/login"__: This endpoint takes a JSON object as its input. The JSON object must have username and password properties and values, which must be string data type.
 ```js
   {
     "username": string,
@@ -59,7 +59,7 @@ There are 3 endpoints on this API:
 ```
 At the completion of the request, the server issues a token and the user object comprising the username and password previously sent to the server. The token issued may be used to continue interaction eith the microservice, hence the user should store the token.
 
-* __"https://longyarnz.github.io/hackerbay_backend/getThumbnail"__: This endpoint takes a JSON object as its input. The JSON object must have url  and token properties and values, which must be string data type. The token embedded in the here must be issued by server else the request will fail with a 403 status error. 
+* __"/patch"__: This endpoint takes a JSON object as its input. The JSON object must have url  and token properties and values, which must be string data type. The token embedded in the here must be issued by server else the request will fail with a 403 status error. 
 ```js
   {
     "token": string,
@@ -69,7 +69,7 @@ At the completion of the request, the server issues a token and the user object 
 ```
 At the completion of the request, the server returns a token and a patched object.
 
-* __"https://longyarnz.github.io/hackerbay_backend/getThumbnail"__: This endpoint takes a JSON object as its input. The JSON object must have valid <url>url</url> to an image stored on a remote server, and token properties and values, which must be string data type. The token embedded in the here must be issued by server else the request will fail with a 403 status. 
+* __"/getThumbnail"__: This endpoint takes a JSON object as its input. The JSON object must have valid <url>url</url> to an image stored on a remote server, and token properties and values, which must be string data type. The token embedded in the here must be issued by server else the request will fail with a 403 status. 
 ```js
   {
     "token": string,
@@ -79,4 +79,4 @@ At the completion of the request, the server returns a token and a patched objec
 At the completion of the request, the server returns a thumbnail of the fetched image file.
 
 ### Documentation
-  For more information with respesct to the codebase, consult ...
+  For more information with respesct to the codebase, consult [Documentation](http://longyarnz.github.io/documentation/index.html)

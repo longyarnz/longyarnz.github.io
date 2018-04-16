@@ -30,7 +30,7 @@
   "scripts": {
     "pretest": "eslint --fix --ignore-path .gitignore .",
     "test": " nyc report --reporter=html mocha --require babel-register --require babel-polyfill --recursive -R spec --exit || true",
-    "dev-start": "nodemon --exec babel-node -- app.js",
+    "node-start": "nodemon --exec babel-node -- app.js",
     "start": "node app"
   },
   "babel": {
