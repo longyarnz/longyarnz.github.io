@@ -198,7 +198,7 @@ app.post('/api/getThumbnail', tokenParser, (req, res) => {
          */
         fetch(url)
           .then(response => {
-            let location = 'public_image.jpg';
+            let location = 'thumbnail_image.jpg';
             /**
              * @description Buffer fetch response
              */

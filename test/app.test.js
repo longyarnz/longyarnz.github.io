@@ -66,7 +66,7 @@ describe('App', () => {
       .send(credentials)
       .end((err, loginResponse) => {
         request.post('/api/patch')
-          .set('Authorization', `Bearer ${loginResponse.body.token}`)
+          .set('Authorization', loginResponse.body.token)
           .send(json)
           .end((err, patchResponse) => {
             const output = jsonPatch.apply(json.jsonObject, json.patch);
@@ -91,7 +91,7 @@ describe('App', () => {
       .send(credentials)
       .end((err, loginResponse) => {
         request.post('/api/patch')
-          .set('Authorization', `Bearer ${loginResponse.body.token}`)
+          .set('Authorization', loginResponse.body.token)
           .send(json)
           .end((err, patchResponse) => {
             expect(patchResponse.text).to.be.equal('Invalid Patch.');
@@ -134,7 +134,7 @@ describe('App', () => {
       .send(credentials)
       .end((err, loginResponse) => {
         request.post('/api/getThumbnail')
-          .set('Authorization', `Bearer ${loginResponse.body.token}`)
+          .set('Authorization', loginResponse.body.token)
           .send({ url: 'https://avatars2.githubusercontent.com/u/19750988?s=460&v=4' })
           .end((err, res) => {
             expect(Buffer.isBuffer(res.body)).to.be.equal(true);
@@ -153,7 +153,7 @@ describe('App', () => {
       .send(credentials)
       .end((err, loginResponse) => {
         request.post('/api/getThumbnail')
-          .set('Authorization', `Bearer ${loginResponse.body.token}`)
+          .set('Authorization', loginResponse.body.token)
           .send({ url: 'https://avatars2.githubusercontent.com/u/19750988?s=460&v=4' })
           .end((err, res) => {
             expect(res).status(403);
@@ -173,7 +173,7 @@ describe('App', () => {
       .send(credentials)
       .end((err, loginResponse) => {
         request.post('/api/getThumbnail')
-          .set('Authorization', `Bearer ${loginResponse.body.token}`)
+          .set('Authorization', loginResponse.body.token)
           .send({ url: 'INVALID_IMAGE_URL' })
           .end((err, res) => {
             expect(Buffer.isBuffer(res.body)).to.be.equal(false);

@@ -1,5 +1,10 @@
+# Folders
 node_modules/
-.*
-.env
 out/
+Documentation/
+coverage/
+
+# Files
+*.log
 *.jpg
+.env

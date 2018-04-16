@@ -4,9 +4,6 @@
  * @exports tokenParser
  */
 export default (req, res, next) => {
-  const tokenHeader = req.headers['authorization'];
-  const tokenBearer = tokenHeader.split(' ');
-  const token = tokenBearer[1];
-  req.token = token;
+  req.token = req.headers['authorization'];
   next();
 };
