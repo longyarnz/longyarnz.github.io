@@ -25,6 +25,7 @@ export default createLogger({
     myFormat
   ),
   transports: [
+    new transports.Console,
     new transports.File({filename: 'info.log'})
   ]
 });
