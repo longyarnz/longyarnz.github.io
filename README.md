@@ -1,7 +1,7 @@
 # Hackerbay Backend API
 
 ## Intro
-Hackerbay Backend API is a REST API with 3 endpoints for user login, json patch and thumbnail fetch. The project is hosted [here](https://longyarnz.github.io) on Github.
+Hackerbay Backend API is a REST API with 3 endpoints for user login, json patch and thumbnail fetch. The project is hosted [here](https://longyarnz.github.io) on Github and the docker image is stored at [https://hub.docker.com/r/longyarnz/hackerbay_backend/](https://hub.docker.com/r/longyarnz/hackerbay_backend/)
 
 ### How To Use
 In a development environment install dependencies. Run npm install in the project folder,
