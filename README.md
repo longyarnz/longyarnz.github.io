@@ -88,4 +88,4 @@ At the completion of the request, the server returns the token and a patched jso
 At the completion of the request, the server returns a thumbnail of the fetched image file.
 
 ### Documentation
-  For more information with respect to the codebase, consult the JsDocs [Documentation](http://longyarnz.github.io/documentation/index.html)
+  For more information with respect to the codebase, consult the JsDocs [Documentations](http://longyarnz.github.io/documentation/index.html)

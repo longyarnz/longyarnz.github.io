@@ -2,9 +2,7 @@
 node_modules/
 out/
 Documentation/
-coverage/
+coverage/*
 
 # Files
 *.log
-*.jpg
-.env
